@@ -30,7 +30,3 @@ Key findings include insights into economy class pricing, competitor fare analys
 **Conclusion**
 
 The project provides a data-backed foundation for strategic decision-making in the Indian aviation sector. Our comprehensive analysis outlines a pathway for new entrants to navigate the competitive landscape effectively. By focusing on data-driven strategies, the project highlights the importance of analytics in achieving sustainable growth and market penetration.
-
-**Appendix**
-
-SQL queries and use cases, detailed dataset information, and additional resources are included in the appendix. These materials support our analysis and offer further insights into our methodology and findings
