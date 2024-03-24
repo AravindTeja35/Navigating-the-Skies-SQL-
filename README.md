@@ -1,4 +1,4 @@
-# Navigating-the-Skies-SQL-
+# Navigating the Skies: Data-Driven Entry Strategy for Aviation Sector (SQL)
 **Introduction**
 
 The project 'Navigating the Skies: Data-Driven Entry Strategy for Aviation Sector' aims to establish a strategic foothold in the rapidly growing Indian aviation market through a data-driven entry strategy. Recognizing the sector's fierce competition and diverse traveler profiles, our project leverages advanced SQL analytics to develop a comprehensive pricing recommendation. This endeavor supports emerging airlines in identifying optimal entry price points amidst the sector's dynamic market conditions.
