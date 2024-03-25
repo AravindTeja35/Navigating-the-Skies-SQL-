@@ -11,7 +11,7 @@ Our core objective is to devise a versatile pricing framework tailored to divers
 
 The project analyzes datasets encompassing:
 
-travel_info.csv: Records detailing flight times, source, destination, fares, and related metrics across India.\n
+travel_info.csv: Records detailing flight times, source, destination, fares, and related metrics across India.<br />
 airports.csv: Comprehensive data on Indian airports, including infrastructure and operational details.
 
 airlines.csv: Information of Indian airlines and their respective flight codes.
